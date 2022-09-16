@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Check out the website here : https://tinder-clone-ebd72.web.app/
+
+### Check out the website here : https://tinder-clone-ebd72.web.app/
 
 ## Available Scripts
 
